@@ -1,24 +1,37 @@
-# cisco-packet-tracer-labs
+# Cisco Packet Tracer Labs
 
-## Topics Included
-- Basic network configuration
-- VLANs and Inter-VLAN routing
-- DHCP and DNS services
-- Wireless network configuration
-- Router and switch setup
-- Wi-Fi connectivity
-- Network troubleshooting
+A collection of hands-on networking labs built in Cisco Packet Tracer, 
+organized by complexity and topic. Created to document my learning journey 
+toward a professional networking career.
 
-## Devices and Tools
+---
+
+## Repository Structure
+
+| Folder | Topic | Level |
+|--------|-------|-------|
+| 01-Fundamentals | Basic connectivity and device configuration | Beginner |
+| 02-Routing | Static routes and OSPF | Beginner - Intermediate |
+| 03-VLANs | VLAN segmentation, trunking, inter-VLAN routing | Intermediate |
+| 04-Services | DHCP and DNS configuration | Intermediate |
+| 05-Security | Standard and extended ACLs | Intermediate |
+| 06-Complete-Projects | Full network designs from scratch | Advanced |
+
+---
+
+## Tools and Devices
+
 - Cisco Packet Tracer
-- Cisco Routers
-- Cisco Switches
-- Server-PT
-- Wireless Router
+- Cisco Routers (2911) and Switches (2960)
+- Server-PT, Wireless Router
 - PCs and Laptops
 
-## Purpose
-This repository was created to document my networking learning journey, improve my Cisco configuration skills, and build a professional networking portfolio.
+---
 
-## Author
-Cristopher Hernandez B.
+## About
+
+I am a Network and Cybersecurity Engineering graduate currently studying 
+for CCNA. This repository documents my practical progress in network 
+configuration, switching, routing and security.
+
+🔗 linkedin.com/in/cristopher-hernandez1
